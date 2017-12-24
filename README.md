@@ -1,8 +1,11 @@
 # web-db-backup-restore-function
 Web System Database Backup and Restore PHP Function
 
-3 different function:
-Backup current database to server
-Download the current database to local
-Restore the selected database backup file 
+Three different function:
+
+1)Backup current database to server
+
+2)Download the current database to local
+
+3)Restore the selected database backup file 
 
